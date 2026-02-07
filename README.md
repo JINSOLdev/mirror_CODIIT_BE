@@ -5,13 +5,12 @@
 
 📄 [프로젝트 계획서](https://www.notion.so/jinsoldev/2-26f985c9419581aea95bfa87b7151a01?source=copy_link)
 
+
+## 1. 서비스 시연 영상
 <p>
-  <img src=""/>
-</p>
-
-## 1. 서비스 링크
-
-- **[코디잇](https://nb-02-codi-it-fe.vercel.app/login)**
+  <a href="https://www.youtube.com/watch?v=KCh2C-SbAP0" target="_blank">
+    <img alt="CodiIt 서비스 시연 영상" src="https://img.youtube.com/vi/KCh2C-SbAP0/1.jpg" width="600"/>
+  </a>
 
 ## 2. 프로젝트 아키텍처
 <img alt="image" src="public/architecture.png" />
