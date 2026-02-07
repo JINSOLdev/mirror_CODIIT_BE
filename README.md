@@ -9,7 +9,7 @@
 ## 1. 서비스 시연 영상
 <p>
   <a href="https://www.youtube.com/watch?v=KCh2C-SbAP0" target="_blank">
-    <img alt="CodiIt 서비스 시연 영상" src="https://img.youtube.com/vi/KCh2C-SbAP0/1.jpg" width="600"/>
+    <img alt="CodiIt 서비스 시연 영상" src="https://img.youtube.com/vi/KCh2C-SbAP0/1.jpg"/>
   </a>
 
 ## 2. 프로젝트 아키텍처
